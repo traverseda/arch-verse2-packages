@@ -1,8 +1,8 @@
 # Maintainer: Alex Davies <traverse.da@gmail.com>
 pkgname=verse2-git
 pkgver=r204.3459fe8
-pkgrel=1
-pkgdesc=""
+pkgrel=2
+pkgdesc="Verse 2.0 is network protocol for real-time sharing of 3D data. It is successor of old Verse protocol developed at KTH. Verse 2.0 is still in alpha version."
 arch=('any')
 url="http://verse.github.io/"
 license=('BSD' 'GPL')
